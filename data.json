@@ -1,0 +1,9 @@
+
+{
+    "volume": 1000.0, 
+    "number": 5,
+    "amountDif": 5.0,  
+    "side": "SELL",  
+    "priceMin": 380.0,  
+    "priceMax": 400.0  
+ }
